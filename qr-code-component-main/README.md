@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: https://github.com/ZainabRaheem/FrontEndMentor/tree/main/qr-code-component-main
-- Live Site URL: [Add live site URL here](https://zainabraheem.github.io/FrontEndMentor/qr-code-component-main/index.html)
+- Solution URL: [https://github.com/ZainabRaheem/FrontEndMentor/tree/main/qr-code-component-main]
+- Live Site URL: [https://zainabraheem.github.io/FrontEndMentor/qr-code-component-main/index.html]
 
 ## My process
 
