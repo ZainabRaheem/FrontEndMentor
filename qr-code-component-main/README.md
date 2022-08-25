@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-The challenge is to build out this QR code component and get it looking as close to the design as possible.
+The challenge is to build out the QR code component and get it looking as close to the design as possible.
 
 ### Screenshot
 
@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ZainabRaheem/FrontEndMentor/tree/main/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://zainabraheem.github.io/FrontEndMentor/qr-code-component-main/index.html)
 
 ## My process
 
@@ -46,14 +46,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Desktop-first workflow
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+
+- I grasped a better understanding
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 

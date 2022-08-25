@@ -3,16 +3,14 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .attribution {
-  margin-top: 30px;
+  margin-top: 10px;
   font-size: 11px;
   text-align: center;
 }
@@ -21,11 +19,19 @@ body {
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-body {
   background-color: hsl(0, 0%, 100%);
-  max-width: 300px;
-  margin: 8% auto;
-  padding: 0.8rem;
   border-radius: 20px;
+  max-width: 300px;
+  margin: auto;
+  padding: 0.8rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
