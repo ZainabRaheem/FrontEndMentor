@@ -23,7 +23,7 @@ The challenge is to build out the QR code component and get it looking as close 
 
 ### Screenshot
 
-![Result](./design/Mine.png)
+![Result](./design/mine.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: https://github.com/ZainabRaheem/FrontEndMentor/tree/main/qr-code-component-main]
+- Solution URL: https://github.com/ZainabRaheem/FrontEndMentor/tree/main/qr-code-component-main
 - Live Site URL: [Add live site URL here](https://zainabraheem.github.io/FrontEndMentor/qr-code-component-main/index.html)
 
 ## My process
